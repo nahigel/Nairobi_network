@@ -10,5 +10,11 @@
   3.The tower with the greatest speed is 4G
 # Tool used
   -SQL - For data cleanig and analysing 
+  - Tableau - For visualization
 # Dashboard
  https://public.tableau.com/app/profile/nigel.m6355/viz/nairobinetworkperfomance/Dashboard1
+  - Area with the highest latency
+  - Area with the fastest speed
+  - Uptime from the month of january to june
+  - tower with the fastest speed(percenatge)
+  - Filtered according to Area and Tower type
