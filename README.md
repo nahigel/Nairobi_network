@@ -11,4 +11,4 @@
 # Tool used
   -SQL - For data cleanig and analysing 
 # Dashboard
-  https://public.tableau.com/app/profile/nigel.m6355/viz/nairobinetwork/Dashboard1
+ https://public.tableau.com/app/profile/nigel.m6355/viz/nairobinetworkperfomance/Dashboard1
