@@ -16,5 +16,5 @@
   - Area with the highest latency
   - Area with the fastest speed
   - Uptime from the month of january to june
-  - tower with the fastest speed(percenatge)
+  - tower with the fastest speed(percentage)
   - Filtered according to Area and Tower type
